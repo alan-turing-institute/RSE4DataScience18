@@ -35,24 +35,24 @@ of position paper blogs.
 Day One: Ideas
 ==============
 
-0930: Coffee, croissants and registration
-1000: Lightning talks
-1100: Coffee
-1130: Topic definition and group assignment session 1
-1300: Lunch
-1400: Parallel session one - technical
-1500: Coffee
-1530: Parallel session two - political
-1700: Feedback to plenary
-1800: Close, personal time
-1900: Conference dinner
+* 0930: Coffee, croissants and registration
+* 1000: Lightning talks
+* 1100: Coffee
+* 1130: Topic definition and group assignment session 1
+* 1300: Lunch
+* 1400: Parallel session one - technical
+* 1500: Coffee
+* 1530: Parallel session two - political
+* 1700: Feedback to plenary
+* 1800: Close, personal time
+* 1900: Conference dinner
 
 Day two
 =======
 
-0930: Registration
-1000: Speed blogging session one
-1300: Lunch
-1400: Speed blogging session two
-1700: Publication time
-1800: Close. Pub.
+* 0930: Registration
+* 1000: Speed blogging session one
+* 1300: Lunch
+* 1400: Speed blogging session two
+* 1700: Publication time
+* 1800: Close. Pub.
