@@ -47,8 +47,8 @@ Day One: Ideas
 * 1800: Close, personal time
 * 1900: Conference dinner
 
-Day two
-=======
+Day two: Action
+===============
 
 * 0930: Registration
 * 1000: Speed blogging session one
