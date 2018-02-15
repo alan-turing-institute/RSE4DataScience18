@@ -9,3 +9,4 @@ Delegates Attending
 |James Hetherington| @jamespjh   | The Alan Turing Institute |
 |Mark Turner| @markdturner   | Newcastle University |
 |Stephen Dowsland| @sdowsland   | Newcastle University |
+|Stuart Geiger | @staeiou | UC-Berkeley Institute for Data Science (BIDS)|
