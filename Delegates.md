@@ -11,3 +11,5 @@ Delegates Attending
 |Stephen Dowsland| @sdowsland   | Newcastle University |
 |Stuart Geiger | @staeiou | UC-Berkeley Institute for Data Science (BIDS)|
 |Thomas Redfern| @TomRedfern  |Leeds University |
+|David Mawdsley| @mawds | The University of Manchester |
+|Ann Gledson   | TBC | The University of Manchester |
