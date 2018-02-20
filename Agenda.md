@@ -32,7 +32,7 @@ and ideas in the future of how RSE for Data Science should be done,
 the nature of the roles, and so on. Outputs will be in the form
 of position paper blogs.
 
-Day One: Ideas
+Day One (19 March): Ideas
 ==============
 
 * 0930: Coffee, croissants and registration
@@ -47,7 +47,7 @@ Day One: Ideas
 * 1800: Close, personal time
 * 1900: Conference dinner
 
-Day two: Action
+Day two (20 March): Action
 ===============
 
 * 0930: Registration
