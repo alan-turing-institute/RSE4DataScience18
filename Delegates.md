@@ -11,3 +11,4 @@ Delegates Attending
 |Stephen Dowsland| @sdowsland   | Newcastle University |
 |Stuart Geiger | @staeiou | UC-Berkeley Institute for Data Science (BIDS)|
 |Thomas Redfern| @TomRedfern  |Leeds University |
+|Valentina Staneva| @valentina-s |University of Washington |
