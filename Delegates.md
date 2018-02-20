@@ -13,3 +13,4 @@ Delegates Attending
 |Thomas Redfern| @TomRedfern  |Leeds University |
 |David Mawdsley| @mawds | The University of Manchester |
 |Ann Gledson   | TBC | The University of Manchester |
+|Valentina Staneva| @valentina-s |University of Washington |
