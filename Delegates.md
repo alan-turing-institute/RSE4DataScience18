@@ -15,3 +15,4 @@ Delegates Attending
 |David Mawdsley| @mawds | The University of Manchester |
 |Ann Gledson   | TBC | The University of Manchester |
 |Valentina Staneva| @valentina-s |University of Washington |
+| Paul Brown | @pebrown88 | University of Warwick |
