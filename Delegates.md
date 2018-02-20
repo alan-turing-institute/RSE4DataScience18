@@ -8,6 +8,7 @@ Delegates Attending
 |Robert Haines     | @hainesr    | The University of Manchester |
 |Mark Turner| @markdturner   | Newcastle University |
 |Stephen Dowsland| @sdowsland   | Newcastle University |
+|Heiko Mueller | @heikomuller | New York University |
 |Stuart Geiger | @staeiou | UC-Berkeley Institute for Data Science (BIDS)|
 |Thomas Redfern| @TomRedfern  |Leeds University |
 |Matthew Archer| @ma595|University of Cambridge |
