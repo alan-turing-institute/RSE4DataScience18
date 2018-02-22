@@ -13,6 +13,6 @@ Delegates Attending
 |Thomas Redfern| @TomRedfern  |Leeds University |
 |Matthew Archer| @ma595|University of Cambridge |
 |David Mawdsley| @mawds | The University of Manchester |
-|Ann Gledson   | TBC | The University of Manchester |
+|Ann Gledson   | @AnnAnnFryingPan | The University of Manchester |
 |Valentina Staneva| @valentina-s |University of Washington |
 | Paul Brown | @pebrown88 | University of Warwick |
