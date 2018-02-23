@@ -10,6 +10,7 @@ Delegates Attending
 |Stephen Dowsland| @sdowsland   | Newcastle University |
 |Heiko Mueller | @heikomuller | New York University |
 |Stuart Geiger | @staeiou | UC-Berkeley Institute for Data Science (BIDS)|
+|Chris Holdgraf| @choldgraf | UC-Berkeley Institute for Data Science (BIDS) and Project Jupyter|
 |Thomas Redfern| @TomRedfern  |Leeds University |
 |Matthew Archer| @ma595|University of Cambridge |
 |David Mawdsley| @mawds | The University of Manchester |
