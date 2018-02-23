@@ -18,3 +18,4 @@ Delegates Attending
 |Valentina Staneva| @valentina-s |University of Washington |
 | Paul Brown | @pebrown88 | University of Warwick |
 | Jake VanderPlas | @jakevdp | University of Washington |
+| Alejandra Gonzalez-Beltran | @agbeltran | University of Oxford |
