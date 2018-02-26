@@ -1,7 +1,7 @@
 Agenda for RSE4DataScience18
 ============================
 
-The is an [Unconference](https://en.wikipedia.org/wiki/Unconference)
+This is an [unconference](https://en.wikipedia.org/wiki/Unconference).
 
 We will crowd-source our topics for discussion in an agile fashion.
 
@@ -20,8 +20,7 @@ Delegates will begin the conference with lightning talks:
 * Slide one: Ninety Seconds on yourself, who you are, and your perspectives.
 * Slide two: Ninety seconds on an idea you have at the intersection of research software engineering and data science
 
-We will then discuss potential content for the breakout teams,
-and who will join them. This will be 
+We will then discuss potential content for the breakout teams, and who will join them. 
 
 Some parallel sessions will cover *technical* output: exemplars of ideas and tools
 that could become larger projects. (Outputs could be in the form
