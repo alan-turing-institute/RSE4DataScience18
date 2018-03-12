@@ -28,3 +28,5 @@ Chocolate Brownie
 Name              | Starter | Main    | Dessert | Special Dietary Requirements
 ------------------|---------|---------|---------|-------------
 James Hetherington| Wings   | Chicken | Brownie | None
+------------------|---------|---------|---------|-------------
+Rosa Filgueira    | Ham Croquetes | Chicken | Crème Brulee | None
