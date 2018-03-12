@@ -44,7 +44,7 @@ Day One (19 March): Ideas
 * 1530: Parallel session two - political
 * 1700: Feedback to plenary
 * 1800: Close, personal time
-* 1900: Conference dinner
+* 1830: Conference dinner http://www.drakeandmorgan.co.uk/ 
 
 Day two (20 March): Action
 ===============
