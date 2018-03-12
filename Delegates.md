@@ -19,3 +19,4 @@ Delegates Attending
 | Paul Brown | @pebrown88 | University of Warwick |
 | Jake VanderPlas | @jakevdp | University of Washington |
 | Alejandra Gonzalez-Beltran | @agbeltran | University of Oxford |
+| Amy Krause | @akrause2014 | University of Edinburgh |
