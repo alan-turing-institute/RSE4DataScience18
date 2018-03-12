@@ -25,6 +25,7 @@ Sorbet
 Crème Brulee
 Chocolate Brownie
 											
-Name              | Starter | Main    | Dessert | Special Dietary Requirements
-------------------|---------|---------|---------|-------------
-James Hetherington| Wings   | Chicken | Brownie | None
+Name              | Starter  | Main         | Dessert | Special Dietary Requirements
+------------------|----------|--------------|---------|-------------
+James Hetherington| Wings    | Chicken      | Brownie | None
+Martin O'Reilly   | Beetroot | Cheeseburger | Brownie | None
