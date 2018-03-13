@@ -1,7 +1,7 @@
 Agenda for RSE4DataScience18
 ============================
 
-The is an [Unconference](https://en.wikipedia.org/wiki/Unconference)
+This is an [unconference](https://en.wikipedia.org/wiki/Unconference).
 
 We will crowd-source our topics for discussion in an agile fashion.
 
@@ -20,8 +20,7 @@ Delegates will begin the conference with lightning talks:
 * Slide one: Ninety Seconds on yourself, who you are, and your perspectives.
 * Slide two: Ninety seconds on an idea you have at the intersection of research software engineering and data science
 
-We will then discuss potential content for the breakout teams,
-and who will join them. This will be 
+We will then discuss potential content for the breakout teams, and who will join them. 
 
 Some parallel sessions will cover *technical* output: exemplars of ideas and tools
 that could become larger projects. (Outputs could be in the form
@@ -32,7 +31,7 @@ and ideas in the future of how RSE for Data Science should be done,
 the nature of the roles, and so on. Outputs will be in the form
 of position paper blogs.
 
-Day One: Ideas
+Day One (19 March): Ideas
 ==============
 
 * 0930: Coffee, croissants and registration
@@ -45,9 +44,9 @@ Day One: Ideas
 * 1530: Parallel session two - political
 * 1700: Feedback to plenary
 * 1800: Close, personal time
-* 1900: Conference dinner
+* 1830: Conference dinner http://www.drakeandmorgan.co.uk/ 
 
-Day two: Action
+Day two (20 March): Action
 ===============
 
 * 0930: Registration
