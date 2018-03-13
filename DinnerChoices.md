@@ -30,3 +30,4 @@ Name              | Starter  | Main         | Dessert | Special Dietary Requirem
 James Hetherington| Wings    | Chicken      | Brownie | None
 Martin O'Reilly   | Beetroot | Cheeseburger | Brownie | None
 Rosa Filgueira    | Ham Croquetes | Chicken | Crème Brulee | None
+Robert Haines     | Ham Croquettes | Chicken | Crème Brulee | None
