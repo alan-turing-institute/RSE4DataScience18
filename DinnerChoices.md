@@ -6,7 +6,7 @@ Starters
 * Chicken Wings
 * Ham Croquettes
 * Salt Szechuan
-* Pepper squid 	
+* Pepper squid
 * Heritage Beetroot, goat's cheese
 
 Mains
@@ -24,7 +24,7 @@ Desserts
 * Sorbet
 * Crème Brulee
 * Chocolate Brownie
-											
+
 Name              | Starter  | Main         | Dessert | Special Dietary Requirements
 ------------------|----------|--------------|---------|-------------
 James Hetherington| Wings    | Chicken      | Brownie | None
