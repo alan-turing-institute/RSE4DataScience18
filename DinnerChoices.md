@@ -33,3 +33,4 @@ Rosa Filgueira    | Ham Croquetes | Chicken | Crème Brulee | None
 Robert Haines     | Ham Croquettes | Chicken | Crème Brulee | None
 Amy Krause        | ??  | Madras Green Curry | Sorbet | Vegan
 Tom Redfern     | Pepper Squid | Cheeseburger | Brownie | Nut Allergy
+Heiko Mueller | Pepper squid | Madras Green Curry | Crème Brulee | None
