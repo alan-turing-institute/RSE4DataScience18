@@ -19,3 +19,5 @@ Delegates Attending
 | Jake VanderPlas | @jakevdp | University of Washington |
 | Alejandra Gonzalez-Beltran | @agbeltran | University of Oxford |
 | Amy Krause | @akrause2014 | University of Edinburgh |
+| Rosa Filgueira | @rosafilgueira | University of Edinburgh |
+|Sanaz Jabbari Bayandor | @sanazjb | University College London|
