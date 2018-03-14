@@ -5,8 +5,7 @@ Starters
 
 * Chicken Wings
 * Ham Croquettes
-* Salt Szechuan
-* Pepper squid
+* Salt Szechuan Pepper squid
 * Heritage Beetroot, goat's cheese
 
 Mains
