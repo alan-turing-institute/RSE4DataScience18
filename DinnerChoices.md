@@ -37,3 +37,4 @@ Amy Krause        | ??  | Madras Green Curry | Sorbet | Vegan
 Tom Redfern     | Pepper Squid | Cheeseburger | Brownie | Nut Allergy
 Heiko Mueller | Pepper squid | Madras Green Curry | Crème Brulee | None
 Stephen Dowsland  | Goats Cheese | Cheeseburger | Sorbet | None
+Stuart Geiger | Ham Croquettes | Chicken | Ice Cream | None
