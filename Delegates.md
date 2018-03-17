@@ -21,3 +21,4 @@ Delegates Attending
 | Amy Krause | @akrause2014 | University of Edinburgh |
 | Rosa Filgueira | @rosafilgueira | University of Edinburgh |
 |Sanaz Jabbari Bayandor | @sanazjb | University College London|
+|Tomas Petricek | @tpetricek | The Alan Turing Institute|
