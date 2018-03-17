@@ -1,6 +1,6 @@
 # Lightning Talks
 
-The conference with begin with lightning talks.
+The conference will begin with lightning talks.
 
 ## Who?
 
