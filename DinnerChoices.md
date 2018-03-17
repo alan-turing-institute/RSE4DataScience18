@@ -41,4 +41,5 @@ Stuart Geiger | Ham Croquettes | Chicken | Ice Cream | None
 Jake VanderPlas | Pepper squid | Chicken | Crème Brulee | None
 David Mawdsley | Goats Cheese | Green Curry | Crème Brulee | None
 Alejandra Gonzalez-Beltran | Ham Croquettes | Fish & Chips | Crème Brulee | None
+Valentina Staneva | Wings | Green Curry | Crème Brulee | None
 
