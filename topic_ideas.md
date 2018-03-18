@@ -10,3 +10,4 @@ Topic Ideas
 * Can we identify/build a network graph to identify RSE career development – through the choice of different qualifications and work experience to jobs?
 * How do we identify and support RSEs across a university, given they may not have an explicit RSE job title?
 * What are the alternative training resources available for RSE development? E.g. moocs?
+* In the light of the Cambridge Analytica and Facebook revelations from the past couple of years, should there be a code of conduct or some form of professional standards body that data scientists can be held accountable to? - C.f. medical ethics boards, etc.
