@@ -42,4 +42,5 @@ Jake VanderPlas | Pepper squid | Chicken | Crème Brulee | None
 David Mawdsley | Goats Cheese | Green Curry | Crème Brulee | None
 Alejandra Gonzalez-Beltran | Ham Croquettes | Fish & Chips | Crème Brulee | None
 Valentina Staneva | Wings | Green Curry | Crème Brulee | None
+Matt Archer | Wings | Green Curry | Crème Brulee | None
 
