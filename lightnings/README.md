@@ -1,6 +1,6 @@
 # Lightning Talks
 
-The conference with begin with lightning talks.
+The conference will begin with lightning talks.
 
 ## Who?
 
@@ -22,6 +22,12 @@ Please create your slides as a PDF file with no videos or animations and submit 
 Talks will be timed by the session chair ([Rob](https://github.com/hainesr)), who will also control the slide deck. Slides will be compiled into a single deck before the session starts.
 
 This is not because Rob is a control-freak, but because one of the nice features of these sorts of sessions is that the momentum is maintained. Also, with such short talks, switching laptops for each talk ends up taking longer than the talks themselves.
+
+In the interests of reproducibility, the full talks deck will be compiled with:
+
+```shell
+$ pdfunite *.pdf All.pdf
+```
 
 ## Why?
 

@@ -10,6 +10,6 @@ In each of the above institutions, significant attention is being paid to the de
 
 In 2017, the UK's EPSRC created a funding stream to bring together Research Software Engineers between the US and UK.
 
-This proposal seeks to establish an ongoing exchange program between RSEs and Data Scientists in the above institutions, to create a rich transatlantic community of expertise in programming for data science. Funding has been received from the US-UK RSE travel fund for the inward leg of this exchange, to bring US RSEs to the UK institutions, and has been matched with reciprocal funding from the UK institutions for the outward leg.
+We seek to establish an ongoing exchange program between RSEs and Data Scientists in the above institutions, to create a rich transatlantic community of expertise in programming for data science. Funding has been received from the US-UK RSE travel fund for the inward leg of this exchange, to bring US RSEs to the UK institutions, and has been matched with reciprocal funding from the UK institutions for the outward leg.
 
 This programme is managed through this Github Repository.
