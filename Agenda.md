@@ -12,7 +12,7 @@ We will then work towards
 delivering a number of our outputs as [Speed Blogs]() within a few
 days of the conference.
 
-As an unconference, the following agenda is subject to 
+As an unconference, the following agenda is subject to
 amendment by the the delegates at any time.
 
 Delegates will begin the conference with lightning talks:
@@ -20,7 +20,7 @@ Delegates will begin the conference with lightning talks:
 * Slide one: Ninety Seconds on yourself, who you are, and your perspectives.
 * Slide two: Ninety seconds on an idea you have at the intersection of research software engineering and data science
 
-We will then discuss potential content for the breakout teams, and who will join them. 
+We will then discuss potential content for the breakout teams, and who will join them.
 
 Some parallel sessions will cover *technical* output: exemplars of ideas and tools
 that could become larger projects. (Outputs could be in the form
@@ -44,7 +44,7 @@ Day One (19 March): Ideas
 * 1530: Parallel session two - political
 * 1700: Feedback to plenary
 * 1800: Close, personal time
-* 1830: Conference dinner http://www.drakeandmorgan.co.uk/ 
+* 1830: Conference dinner http://www.drakeandmorgan.co.uk/kings-cross/
 
 Day two (20 March): Action
 ===============
