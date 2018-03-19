@@ -6,7 +6,6 @@
  - Portability of outputs, eg to csv or domain specific software
  - Youtube videos or podcasts
  - Sneeking in the back of an undergraduate or masters lecture
- - 
 
 ## How to bring software engineering best practice to a domain you're working in
  - Guest lectures
@@ -16,4 +15,4 @@
  - Carrot/Stick approach to requests for help on things like Git, needs careful relationship management
  - Incentivizing 
  - Encourage self learning, usually after an intial workshop or course
- - Use analogies to bridge gap between domains
+ - Use analogies to bridge gap between domains (build up a library of examples?)
