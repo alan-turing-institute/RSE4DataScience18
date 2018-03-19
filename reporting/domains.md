@@ -1,11 +1,14 @@
 ## How to onboard yourself into a new unfamiliar domain
- - Glossary of terms, request initial contribution from domain specialist adding to it as you go on the project
+ - Talk to people, be excited about their subject to get conversation started
+ - Youtube videos or podcasts - by domain experts
  - Recommended reading list
- - Lists of software commonly used in area, eg Matlab Python etc
- - Arrangement of licencing to access
+ - Lists of software/tools commonly used in area, eg Matlab Python etc - Arrangement of licensing to access
+ - View example datasets/scripts
+ - Shadowing domain expert to see what they do
+ - Sneaking in the back of an undergraduate or masters lecture
+ - Glossary of terms, request initial contribution from domain specialist adding to it as you go on the project
  - Portability of outputs, eg to csv or domain specific software
- - Youtube videos or podcasts
- - Sneeking in the back of an undergraduate or masters lecture
+ - Whether to embed yourself with the research group
 
 ## How to bring software engineering best practice to a domain you're working in
  - Guest lectures
