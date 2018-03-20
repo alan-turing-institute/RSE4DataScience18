@@ -1,6 +1,7 @@
 # Research Software Engineers and Data Scientists: More in Common
 
 ## Matthew Archer, Stephen Dowsland, Rosa Filgueira,  R. Stuart Geiger, Alejandra Gonzalez-Beltran, Robert Haines, James Hetherington, Christopher Holdgraf, Sanaz Jabbari Bayandor, David Mawdsley, Heiko Mueller, Tom Redfern, Martin O'Reilly, Mark Turner, Jake VanderPlas, Kirstie Whitaker
+(authors in alphabetical order)
 
 ### Introduction
 
